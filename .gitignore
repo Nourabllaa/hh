@@ -24,6 +24,7 @@ htmlcov/
 .coverage.*
 *,cover
 
-# Direnv
+# Direnvdocker build -t "jwt-api-test" .
 .envrc
 .direnv
+.env_file
