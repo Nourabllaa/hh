@@ -307,6 +307,7 @@ Resources:
     Properties:
       Artifacts:
         Type: CODEPIPELINE
+
       Source:
         Type: CODEPIPELINE
       Environment:
